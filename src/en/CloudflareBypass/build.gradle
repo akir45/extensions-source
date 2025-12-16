@@ -1,0 +1,14 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+
+ext {
+    extName = 'Cloudflare Bypass Example'
+    pkgNameSuffix = 'en.CloudflareBypass'
+    extClass = '.CloudflareBypassFactory'
+    extVersionCode = 1
+    extVersionSuffix = 1
+    libVersion = '1.4'
+}
+
+apply from: "$rootDir/common.gradle"
