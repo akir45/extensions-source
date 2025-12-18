@@ -1,0 +1,19 @@
+{
+  "name": "Cloudflare Bypass Example",
+  "pkg": "eu.kanade.tachiyomi.extension.en.CloudflareBypass",
+  "apk": "CloudflareBypass.apk",
+  "version": 1,
+  "code": 1,
+  "language": "en",
+  "sources": [
+    {
+      "name": "Cloudflare Bypass Example",
+      "lang": "en",
+      "version": 1,
+      "pkg": "eu.kanade.tachiyomi.extension.en.CloudflareBypass",
+      "isNsfw": false,
+      "has
+      "hasCloudflareBypass": true
+    }
+  ]
+}
